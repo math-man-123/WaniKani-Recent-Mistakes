@@ -1,4 +1,4 @@
-## This project has been replaced by [Wani-Kani-Downloader](https://github.com/math-man-123/wanikani-downloader)!
+## This project has been replaced by [WaniKani-Downloader](https://github.com/math-man-123/wanikani-downloader)!
 It is now part of my website, providing even more functionality directly from your web browser.
 
 ## WaniKani recent mistakes to Anki cards
